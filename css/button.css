@@ -1,0 +1,15 @@
+.button{
+    background-color: #fff;
+    border: 2px solid #324C67;
+}
+
+.button:hover{
+    background-color: #324C67;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+.more-btn{
+    width: 160px;
+    height: 55px;
+}
